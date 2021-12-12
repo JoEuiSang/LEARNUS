@@ -1,5 +1,5 @@
 # LearnUs : 라이브 강의 교육 종합 플랫폼
-
+![](https://i.imgur.com/1MHBdhz.png)
 ---
 
 ## 목차
